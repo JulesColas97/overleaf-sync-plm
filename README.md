@@ -4,8 +4,9 @@
 ![Made In Austria](https://img.shields.io/badge/Made%20in-Austria-%23ED2939.svg) ![PyPI - License](https://img.shields.io/pypi/l/overleaf-sync.svg) ![PyPI](https://img.shields.io/pypi/v/overleaf-sync.svg) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/overleaf-sync.svg)
 
 This tool provides an easy way to synchronize Overleaf projects from and to your local computer. No paid account necessary.
-This version was modified in order to connect to PLMlatex which uses an OAuth2 authentification. 
-https://plmlatex.math.cnrs.fr/
+
+**This version was modified in order to connect to PLMlatex which uses an OAuth2 authentication. 
+https://plmlatex.math.cnrs.fr/**
 
 ----
 
