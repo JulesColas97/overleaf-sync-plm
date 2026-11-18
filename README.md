@@ -5,8 +5,12 @@
 
 This tool provides an easy way to synchronize Overleaf projects from and to your local computer. No paid account necessary.
 
+**THIS FORK IS NO LONGER NEED YOU CAN DIRECTLY USE OVERLEAF-SYNC MAIN BRANCH**
+
 **This version was modified in order to connect to PLMlatex which uses an OAuth2 authentication. 
-https://plmlatex.math.cnrs.fr/**
+https://plmlatex.math.cnrs.fr/ 
+It is not maintained anymore, and the Oauth2 authentication was added to main version of overleaf-sync. 
+**
 
 ----
 
